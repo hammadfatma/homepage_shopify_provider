@@ -1,0 +1,54 @@
+{
+  "products" : [
+    {
+        "id" : "1",
+        "name" : "bag",
+        "categoryId" : "1",
+        "description" : "good material",
+        "price" : 20,
+        "quantity" : 12
+    },
+    {
+        "id" : "2",
+        "name" : "shoes",
+        "categoryId" : "1",
+        "description" : "good material",
+        "price" : 33,
+        "quantity" : 5
+    }
+  ],
+  "categories" : [
+    {
+        "id" : "1",
+        "title" : "new clothes",
+        "description" : "clothes Category"
+    },
+    {
+        "id" : "2",
+        "title" : "Assets",
+        "description" : "assets Category"
+    }
+  ],
+  "advertisements" : [
+    {
+      "id" : "1",
+      "imageURL" : "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+      "title" : "Rain Jacket Women Windbreaker Striped"
+    },
+    {
+      "id" : "2",
+      "imageURL" : "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "title" : "MBJ Women's Solid Short Sleeve Boat Neck"
+    },
+    {
+      "id" : "3",
+      "imageURL" : "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+      "title" : "Ona Women's Short Sleeve Moisture"
+    },
+    {
+      "id" : "4",
+      "imageURL" : "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+      "title" : "DANVOUY Women's T Shirt Casual Cotton"
+    }
+  ]
+}
